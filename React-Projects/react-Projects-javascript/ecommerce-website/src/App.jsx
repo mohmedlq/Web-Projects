@@ -6,19 +6,25 @@ import Auth from './Pages/Auth';
 import CheckOut from './Pages/CheckOut';
 import NavBar from './Components/NavBar';
 import "./App.css"
+import AuthProvider from "./context/AuthContext"
+import Products from './Pages/Products';
+ import CartProvider from "./context/CartContext"
 export default function App() {
 return(
-  <div className='app'>
-    <NavBar/>
+  
+ <div className='app'>
+    <CartProvider>
+    <AuthProvider >
+      <NavBar/>
       <Routes>
         
       <Route path='/' element={<Home/>} />
       <Route path='/auth' element={<Auth/>}/>
       <Route path='/checkout' element={<CheckOut/>}/>
-
+      <Route path='/products/:id' element={<Products/>}/>
       </Routes>
-
-
+    </AuthProvider>
+    </CartProvider>
   </div>
 )
 }
