@@ -1,0 +1,208 @@
+{
+  "contact": [
+    {
+      "id": "2",
+      "name": "Sara Mohammed",
+      "email": "sara.mohammed@example.com",
+      "phone": "+966552345678",
+      "message": "I have a question regarding my account."
+    },
+    {
+      "id": "3",
+      "name": "Omar Khalid",
+      "email": "omar.khalid@example.com",
+      "phone": "+966563456789",
+      "message": "Can you help me with the registration process?"
+    },
+    {
+      "id": "4",
+      "name": "Nora Abdullah",
+      "email": "nora.abdullah@example.com",
+      "phone": "+966574567890",
+      "message": "I would like to report an issue with the website."
+    },
+    {
+      "id": "5",
+      "name": "Yousef Hassan",
+      "email": "yousef.hassan@example.com",
+      "phone": "+966585678901",
+      "message": "Thank you for providing such a great service."
+    },
+    {
+      "id": "6",
+      "name": "Mohamed Ali",
+      "email": "mohamed.ali@example.com",
+      "phone": "+966596789012",
+      "message": "I need help updating my contact information."
+    },
+    {
+      "id": "7",
+      "name": "Fatimah Ahmed",
+      "email": "fatimah.ahmed@example.com",
+      "phone": "+966507890123",
+      "message": "I would like to ask about your available services."
+    },
+    {
+      "id": "8",
+      "name": "Khalid Salem",
+      "email": "khalid.salem@example.com",
+      "phone": "+966518901234",
+      "message": "Please help me with my recent request."
+    },
+    {
+      "id": "9",
+      "name": "Maha Omar",
+      "email": "maha.omar@example.com",
+      "phone": "+966529012345",
+      "message": "I have a question about the registration process."
+    },
+    {
+      "id": "10",
+      "name": "Abdulrahman Saad",
+      "email": "abdulrahman.saad@example.com",
+      "phone": "+966531234567",
+      "message": "Can you provide more information about your services?"
+    },
+    {
+      "id": "11",
+      "name": "Reem Khalid",
+      "email": "reem.khalid@example.com",
+      "phone": "+966542345678",
+      "message": "I would like to update my account details."
+    },
+    {
+      "id": "12",
+      "name": "Faisal Nasser",
+      "email": "faisal.nasser@example.com",
+      "phone": "+966553456789",
+      "message": "Thank you for your quick response."
+    },
+    {
+      "id": "13",
+      "name": "Lina Abdullah",
+      "email": "lina.abdullah@example.com",
+      "phone": "+966564567890",
+      "message": "I need assistance with my account."
+    },
+    {
+      "id": "14",
+      "name": "Salman Ahmed",
+      "email": "salman.ahmed@example.com",
+      "phone": "+966575678901",
+      "message": "Could you help me solve this issue?"
+    },
+    {
+      "id": "15",
+      "name": "Huda Mohammed",
+      "email": "huda.mohammed@example.com",
+      "phone": "+966586789012",
+      "message": "I would like to know more about the platform."
+    },
+    {
+      "id": "16",
+      "name": "Turki Hassan",
+      "email": "turki.hassan@example.com",
+      "phone": "+966597890123",
+      "message": "Please help me complete my registration."
+    },
+    {
+      "id": "17",
+      "name": "Aisha Khalid",
+      "email": "aisha.khalid@example.com",
+      "phone": "+966508901234",
+      "message": "I have some questions regarding my account."
+    },
+    {
+      "id": "18",
+      "name": "Saud Abdullah",
+      "email": "saud.abdullah@example.com",
+      "phone": "+966519012345",
+      "message": "I would like to report a problem with the website."
+    },
+    {
+      "id": "19",
+      "name": "Noor Ahmed",
+      "email": "noor.ahmed@example.com",
+      "phone": "+966520123456",
+      "message": "Can someone help me with my request?"
+    },
+    {
+      "id": "20",
+      "name": "Majed Ali",
+      "email": "majed.ali@example.com",
+      "phone": "+966531234567",
+      "message": "I need more details about your services."
+    },
+    {
+      "id": "21",
+      "name": "Rania Salem",
+      "email": "rania.salem@example.com",
+      "phone": "+966542345679",
+      "message": "I would like to change some of my account information."
+    },
+    {
+      "id": "22",
+      "name": "Waleed Omar",
+      "email": "waleed.omar@example.com",
+      "phone": "+966553456780",
+      "message": "Please assist me with this issue."
+    },
+    {
+      "id": "23",
+      "name": "Dana Hassan",
+      "email": "dana.hassan@example.com",
+      "phone": "+966564567891",
+      "message": "I would like to know how your service works."
+    },
+    {
+      "id": "24",
+      "name": "Bader Khalid",
+      "email": "bader.khalid@example.com",
+      "phone": "+966575678902",
+      "message": "Can you help me with my account?"
+    },
+    {
+      "id": "25",
+      "name": "Amal Saad",
+      "email": "amal.saad@example.com",
+      "phone": "+966586789013",
+      "message": "I have an issue that needs your attention."
+    },
+    {
+      "id": "26",
+      "name": "Nawaf Abdullah",
+      "email": "nawaf.abdullah@example.com",
+      "phone": "+966597890124",
+      "message": "I would appreciate your help with this request."
+    },
+    {
+      "id": "27",
+      "name": "Mariam Ali",
+      "email": "mariam.ali@example.com",
+      "phone": "+966508901235",
+      "message": "I would like to ask a question about my account."
+    },
+    {
+      "id": "28",
+      "name": "Sultan Mohammed",
+      "email": "sultan.mohammed@example.com",
+      "phone": "+966519012346",
+      "message": "Please provide more information about your services."
+    },
+    {
+      "id": "29",
+      "name": "Layla Hassan",
+      "email": "layla.hassan@example.com",
+      "phone": "+966520123457",
+      "message": "I need help with the registration process."
+    },
+    {
+      "id": "30",
+      "name": "Hamad Khalid",
+      "email": "hamad.khalid@example.com",
+      "phone": "+966531234568",
+      "message": "Thank you for your support and assistance."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
